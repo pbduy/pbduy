@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning in Ho Chi Minh City University of Science (2017 - Present).
 
-📫 How to reach me: Facebook: facebook.com/phambaoduy31| Instagram: instagram.com/urmahbooboo._/ | Gmail: pbduy99@gmail.com
+📫 How to reach me: <a href="https://www.facebook.com/phambaoduy31"> Facebook </a> | <a href="https://www.instagram.com/urmahbooboo._"> Instagram </a> | Gmail: pbduy99@gmail.com
 <!--
 **pbduy/pbduy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

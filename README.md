@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Duy, Pham Bao Duy
 
-🌱 I’m currently learning in Ho Chi Minh City University of Science (2017 - Present).
+🌱 I’m currently learning in Ho Chi Minh City University of Science - VNU (2017 - Present).
 
 📫 How to reach me: <a href="https://www.facebook.com/phambaoduy31"> Facebook </a> | <a href="https://www.instagram.com/urmahbooboo._"> Instagram </a> | Gmail: pbduy99@gmail.com
 <!--
